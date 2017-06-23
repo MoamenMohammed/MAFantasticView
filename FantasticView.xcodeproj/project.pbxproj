@@ -12,6 +12,7 @@
 		2F3320B01EFC1A640001BC74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F3320AE1EFC1A640001BC74 /* Main.storyboard */; };
 		2F3320B21EFC1A640001BC74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F3320B11EFC1A640001BC74 /* Assets.xcassets */; };
 		2F3320B51EFC1A640001BC74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F3320B31EFC1A640001BC74 /* LaunchScreen.storyboard */; };
+		2F3320BD1EFC29790001BC74 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F3320BC1EFC29790001BC74 /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2F3320B11EFC1A640001BC74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F3320B41EFC1A640001BC74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F3320B61EFC1A640001BC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F3320BC1EFC29790001BC74 /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2F3320AA1EFC1A640001BC74 /* AppDelegate.swift */,
 				2F3320AC1EFC1A640001BC74 /* ViewController.swift */,
+				2F3320BC1EFC29790001BC74 /* FantasticView.swift */,
 				2F3320AE1EFC1A640001BC74 /* Main.storyboard */,
 				2F3320B11EFC1A640001BC74 /* Assets.xcassets */,
 				2F3320B31EFC1A640001BC74 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				2F3320AD1EFC1A640001BC74 /* ViewController.swift in Sources */,
 				2F3320AB1EFC1A640001BC74 /* AppDelegate.swift in Sources */,
+				2F3320BD1EFC29790001BC74 /* FantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
